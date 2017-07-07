@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Craigslist Project
+## Data Driven Test for Craigslist
 
-*Default Structure for A Basic Project*
+*Default Structure for A Craigslist Project*
 
 **Java 8**
 
